@@ -1,0 +1,3 @@
+rpi-ws281x
+pynetworktables
+tqdm
